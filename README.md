@@ -42,4 +42,4 @@ Tujuan saya mempelajari Data Science adalah karena saya melihatnya sebagai keter
 2. Persiapan data > algoritma. Ini terbukti dalam melakukan hands-on praktikum, dimana lebih dari setengah pertemuan dihabiskan untuk memahami dan mempersiapkan data, sementara model ML-nya sendiri hanya beberapa baris kode.
 3. Sebagai Graphic Designer, pemahaman tentang estetika dan komunikasi visual yang sudah ada sebelumnya sangat relevan dengan Pertemuan 5 (Visualisasi Data) dimana kita perlu memilih jenis grafik yang tepat, memberikan konteks yang jelas, dan membuat visualisasi yang tidak hanya benar tapi juga mudah dipahami.
 
-Terima kasih.
+# Terima kasih.
