@@ -1,5 +1,41 @@
 # data-science-2026
-Hai!
-I'm Deni, I'm a graphic artist, I'm also an active student currently pursuing my Computer Science degree at Universitas Siber Asia.
-My journey began with pencil sketches, evolved into digital canvases, and now expands to lines of code. As a full-time Graphic Artist and part-time Computer Science student at UNSIA, I've learned that truly memorable designs live at the intersection of artistry and technology.
-My purpose to learn data science is because I see it as a promising skill for the future with so many possibilities.
+
+Nama   : Deni Widi Alfian
+NIM    : 240401010340
+Kelas  : IF 405
+Prodi  : PJJ Informatika
+
+Helo world!
+Perkenalkan saya Deni Widi Alfian. Saya bekerja sebagai Graphic Designer dan juga mahasiswa aktif di Universitas Siber Asia dengan program studi Informatika. Perjalanan saya bermula dari sketsa pensil, berkembang ke kanvas digital, dan kini merambah ke baris-baris kode. Sebagai seorang Graphic Designer dan mahasiswa Informatika, saya menyadari bahwa desain yang benar-benar berkesan hidup di persimpangan antara seni dan teknologi.
+
+Tujuan saya mempelajari Data Science adalah karena saya melihatnya sebagai keterampilan yang sangat menjanjikan untuk masa depan dengan peluang besarnya.
+
+--------------------------------------------------------
+
+# List Notebook
+1. Pertemuan 1 - Pengenalan Data Science
+   Link :
+   
+2. Pertemuan 2 - Struktur Data Python, NumPy & Pandas
+   Link :
+
+3. Pertemuan 3 - Data Cleaning: Missing, Outlier & Ekstraksi
+   Link :
+   
+4. Pertemuan 4 - Statistika Dasar & Analisis Data
+   Link :
+
+5. Pertemuan 5 - Visualisasi Data
+   Link :
+
+6. Pertemuan 6 - Persiapan Data
+   Link :
+
+7. Pertemuan 7 - Pengantar Machine Learning: Regresi Linier
+   Link :
+
+--------------------------------------------------------
+
+# Kesimpulan Pembelajaran
+
+
