@@ -35,23 +35,21 @@ Tujuan saya mempelajari Data Science adalah karena saya melihatnya sebagai keter
 7. Pertemuan 7 - Pengantar Machine Learning: Regresi Linier
    Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan7_Deni_Widi_Alfian_240401010340.ipynb
 
-8. Pertemuan 8 -
-   Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan8_Deni_Widi_Alfian_240401010340.ipynb
-
-9. Pertemuan 9 -
+8. Pertemuan 9 - Algoritma Klasifikasi (Bagian 1)
    Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan9_Deni_Widi_Alfian_240401010340.ipynb
 
-10. Pertemuan 10 -
+9. Pertemuan 10 - Algoritma Klasifikasi (Bagian 2)
     Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan10_Deni_Widi_Alfian_240401010340.ipynb
 
-11. Pertemuan 11 -
+10. Pertemuan 11 - Unsupervised Learning: Clustering
     Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan11_Deni_Widi_Alfian_240401010340.ipynb
 
-12. Pertemuan 12 -
+11. Pertemuan 12 - Asosiasi Data & Sistem Rekomendasi Dasar
     Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan12_Deni_Widi_Alfian_240401010340.ipynb
 
-13. Pertemuan 13 -
+12. Pertemuan 13 - Deep Learning dan NLP Dasar
     Link : https://github.com/deniwidi/data-science-2026/blob/main/Pertemuan13_Deni_Widi_Alfian_240401010340.ipynb
+    
 --------------------------------------------------------
 
 # Kesimpulan Pembelajaran
